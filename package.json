@@ -1,0 +1,35 @@
+{
+  "name": "react--nameste",
+  "version": "1.0.0",
+  "description": "learning react",
+  "scripts": {
+    "start": "parcel index.html",
+    "pro-build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagaprasad13/React.git"
+  },
+  "keywords": [
+    "react",
+    "frontend"
+  ],
+  "author": "nagaprasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nagaprasad13/React/issues"
+  },
+  "homepage": "https://github.com/Nagaprasad13/React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-router-dom": "^7.18.0"
+  },
+  "browserslist": [
+    "last 2 chrome version"
+  ]
+}

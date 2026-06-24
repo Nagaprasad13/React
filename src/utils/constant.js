@@ -1,0 +1,2 @@
+export const LOGO_URL="https://img.magnific.com/premium-vector/burger-delivery-logo-vector-icon_1015832-3950.jpg?semt=ais_hybrid&w=740&q=80https://cdn.dribbble.com/userupload/9902999/file/original-de06ad0905f8f51f1e1d0adbf2c4e538.jpg?resize=1000x750&vertical=center";
+export const IMAGE_ID="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/"
